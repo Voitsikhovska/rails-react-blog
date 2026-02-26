@@ -9,20 +9,33 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/backend/tmp/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/tmp/sockets" />
     </content>
     <orderEntry type="jdk" jdkName="asdf: 3.2.6" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="action_text-trix (v2.1.16, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actioncable (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actioncable (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionmailbox (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailbox (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionmailer (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actiontext (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actiontext (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionview (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionview (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activejob (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activejob (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activestorage (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activestorage (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.8.8, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ast (v2.4.3, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="base64 (v0.3.0, asdf: 3.2.6) [gem]" level="application" />
@@ -39,7 +52,11 @@
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="date (v3.5.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="devise (v5.0.2, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="devise-jwt (v0.13.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="drb (v2.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dry-auto_inject (v1.1.0, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dry-configurable (v1.3.0, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dry-core (v1.2.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erb (v6.0.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.13.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v1.3.0, asdf: 3.2.6) [gem]" level="application" />
@@ -48,6 +65,7 @@
     <orderEntry type="library" scope="PROVIDED" name="irb (v1.17.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v2.18.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json-schema (v6.1.0, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jwt (v3.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="language_server-protocol (v3.17.0.5, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="lint_roller (v1.1.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="logger (v1.7.0, asdf: 3.2.6) [gem]" level="application" />
@@ -76,6 +94,7 @@
     <orderEntry type="library" scope="PROVIDED" name="puma (v7.2.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.8.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v3.2.5, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-cors (v3.0.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-session (v2.1.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v2.2.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rackup (v2.3.1, asdf: 3.2.6) [gem]" level="application" />
@@ -83,6 +102,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.3.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.7.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v7.2.3, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v8.1.2, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rainbow (v3.1.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v13.3.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v7.2.0, asdf: 3.2.6) [gem]" level="application" />
@@ -103,8 +123,10 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.6, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v3.2.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="unicode-emoji (v4.2.0, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uri (v1.1.1, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="useragent (v0.16.11, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="warden (v1.2.9, asdf: 3.2.6) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="warden-jwt_auth (v0.12.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.8.0, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, asdf: 3.2.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.7.5, asdf: 3.2.6) [gem]" level="application" />
